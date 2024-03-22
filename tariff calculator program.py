@@ -8,6 +8,8 @@ import math
 #If the txt file is not named exactly 'data.txt', then the file won't work.
 
 
+#Plan to use a sql database in the future instead of a simple "data.txt"
+
 ################################
 def instruction():
     print("How to use this calculator/quotation generator?\nWhen starting the script, type next if you want to skip the instruction.")
